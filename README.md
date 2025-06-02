@@ -6,6 +6,7 @@ This project is a web-based tool that predicts and visualizes antibody structure
 - Amino acid sequences (.fasta)
 - RMSD plots (predicted uncertainty across residues)
 
+![RMSD Example](example_rmsd.png)
 
 ---
 
@@ -80,4 +81,4 @@ pip install -r requirements.txt
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/atnatiwos-gebremedhin-397920191/]) or submit issues/ideas via GitHub!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/atnatiwos-gebremedhin-397920191/) or submit issues/ideas via GitHub!
