@@ -80,4 +80,4 @@ pip install -r requirements.txt
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/atnatiwos-gebremedhin-397920191/)) or submit issues/ideas via GitHub!
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/atnatiwos-gebremedhin-397920191/]) or submit issues/ideas via GitHub!
